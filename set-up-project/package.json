@@ -1,0 +1,33 @@
+{
+  "name": "meredth-purifoy",
+  "version": "1.0.0",
+  "description": "npm install express express-vslidator mongoose\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[a\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[Cbcryptis\u001b[D\u001b[D\u001b[j\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Cconfig\u001b[Cesm",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[B\u001b[B\u001b[D\u001b[C",
+    "start": "node -r esm server.js",
+    "server": "nodemon -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itdev161-fa2022/meredth-purifoy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itdev161-fa2022/meredth-purifoy/issues"
+  },
+  "homepage": "https://github.com/itdev161-fa2022/meredth-purifoy#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
+  }
+}
